@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Traduzir-FalloutShelter-PTBR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5071b4427d5838aef4f92a54453c5f59bcead75f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Traduzir-FalloutShelter-PTBR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Traduzir-FalloutShelter-PTBR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

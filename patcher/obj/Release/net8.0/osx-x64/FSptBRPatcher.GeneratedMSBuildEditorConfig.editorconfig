@@ -12,6 +12,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FSptBRPatcher
-build_property.ProjectDir = /home/nilngn/Downloads/humanitz/Fallout-Traducao-PT-BR-main/patcher/
+build_property.ProjectDir = /home/nilngn/Downloads/humanitz/Fallout-Traducao-PT-BR/patcher/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

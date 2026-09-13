@@ -257,11 +257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nilngn/Downloads/humanitz/Fallout-Traducao-PT-BR-main/patcher/FSptBRPatcher.csproj",
+      "projectUniqueName": "/home/nilngn/Downloads/humanitz/Fallout-Traducao-PT-BR/patcher/FSptBRPatcher.csproj",
       "projectName": "Traduzir-FalloutShelter-PTBR",
-      "projectPath": "/home/nilngn/Downloads/humanitz/Fallout-Traducao-PT-BR-main/patcher/FSptBRPatcher.csproj",
+      "projectPath": "/home/nilngn/Downloads/humanitz/Fallout-Traducao-PT-BR/patcher/FSptBRPatcher.csproj",
       "packagesPath": "/home/nilngn/.nuget/packages/",
-      "outputPath": "/home/nilngn/Downloads/humanitz/Fallout-Traducao-PT-BR-main/patcher/obj/",
+      "outputPath": "/home/nilngn/Downloads/humanitz/Fallout-Traducao-PT-BR/patcher/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nilngn/.nuget/NuGet/NuGet.Config"

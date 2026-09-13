@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hsOQeYaFqo0=",
+  "dgSpecHash": "Gozs0XrDc5Q=",
   "success": true,
-  "projectFilePath": "/home/nilngn/Downloads/humanitz/Fallout-Traducao-PT-BR-main/patcher/FSptBRPatcher.csproj",
+  "projectFilePath": "/home/nilngn/Downloads/humanitz/Fallout-Traducao-PT-BR/patcher/FSptBRPatcher.csproj",
   "expectedPackageFiles": [
     "/home/nilngn/.nuget/packages/assetstools.net/3.0.4/assetstools.net.3.0.4.nupkg.sha512",
     "/home/nilngn/.nuget/packages/assetstools.net.monocecil/3.0.4/assetstools.net.monocecil.3.0.4.nupkg.sha512",
