@@ -39,9 +39,9 @@ Instalador de **1 clique** — sem precisar instalar nada.
 ## 📥 Como instalar
 
 1. Baixe o ZIP correspondente ao seu sistema clicando nos links abaixo:
-   - 🪟 Windows: **[`Traducao_FS_Windows.zip`](https://github.com/Nivaldo-Nilngn/Fallout-Traducao-PT-BR/raw/main/Releases_Finais/Traducao_FS_Windows.zip)**
-   - 🐧 Linux / Steam Deck: **[`Traducao_FS_Linux.zip`](https://github.com/Nivaldo-Nilngn/Fallout-Traducao-PT-BR/raw/main/Releases_Finais/Traducao_FS_Linux.zip)**
-   - 🍎 Mac: **[`Traducao_FS_Mac.zip`](https://github.com/Nivaldo-Nilngn/Fallout-Traducao-PT-BR/raw/main/Releases_Finais/Traducao_FS_Mac.zip)**
+   - 🪟 Windows: **[`Traducao_FS_Windows.zip`](https://github.com/Nivaldo-Nilngn/Fallout-Traducao-PT-BR/releases/latest/download/Traducao_FS_Windows.zip)**
+   - 🐧 Linux / Steam Deck: **[`Traducao_FS_Linux.zip`](https://github.com/Nivaldo-Nilngn/Fallout-Traducao-PT-BR/releases/latest/download/Traducao_FS_Linux.zip)**
+   - 🍎 Mac: **[`Traducao_FS_Mac.zip`](https://github.com/Nivaldo-Nilngn/Fallout-Traducao-PT-BR/releases/latest/download/Traducao_FS_Mac.zip)**
 2. Extraia o arquivo baixado.
 3. **Como executar:**
    - **🪟 Windows:** Dê 2 cliques no aplicativo `Traduzir-FalloutShelter-PTBR.exe`.
