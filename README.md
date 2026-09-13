@@ -43,10 +43,12 @@ Instalador de **1 clique** — sem precisar instalar nada.
    - 🐧 Linux / Steam Deck: **[`Traducao_FS_Linux.zip`](https://github.com/Nivaldo-Nilngn/Fallout-Traducao-PT-BR/raw/main/Releases_Finais/Traducao_FS_Linux.zip)**
    - 🍎 Mac: **[`Traducao_FS_Mac.zip`](https://github.com/Nivaldo-Nilngn/Fallout-Traducao-PT-BR/raw/main/Releases_Finais/Traducao_FS_Mac.zip)**
 2. Extraia o arquivo baixado.
-3. Dê **2 cliques** no executável `Traduzir-FalloutShelter-PTBR`.
-   - Se o Windows mostrar um aviso azul (*"O Windows protegeu o seu PC"*): **Mais informações → Executar assim mesmo**.
-   - No Linux/Mac, se necessário, você pode rodar o arquivo pelo terminal.
-4. Abra o jogo. **Pronto, está em português!** 🎉
+3. **Como executar:**
+   - **🪟 Windows:** Dê 2 cliques no aplicativo `Traduzir-FalloutShelter-PTBR.exe`.
+     *(Se o Windows mostrar um aviso azul "O Windows protegeu o seu PC", clique em **Mais informações → Executar assim mesmo**).*
+   - **🐧 Linux / 🍎 Mac:** Abra a pasta extraída, clique com o botão direito num espaço vazio e escolha **"Abrir no Terminal"**. No terminal, digite `./Traduzir-FalloutShelter-PTBR` e aperte Enter. (Se der erro de permissão, digite `chmod +x Traduzir-FalloutShelter-PTBR` antes).
+4. **⚠️ Atenção usuários do Heroic Games Launcher:** Como o jogo não estará na pasta oficial da Steam, o instalador pedirá para você colar o caminho da pasta do jogo. Por isso é obrigatório abrir pelo terminal no Linux para conseguir colar o caminho quando ele pedir!
+5. Abra o jogo. **Pronto, está em português!** 🎉
 
 > ℹ️ Não precisa mudar o idioma na Steam — a tradução é aplicada em todos os idiomas do jogo,
 > então funciona em qualquer configuração.
