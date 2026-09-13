@@ -1,0 +1,350 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AssetsTools.NET/3.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/AssetsTools.NET.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/AssetsTools.NET.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AssetsTools.NET.MonoCecil/3.0.4": {
+        "type": "package",
+        "dependencies": {
+          "AssetsTools.NET": "3.0.0",
+          "Mono.Cecil": "0.11.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/AssetsTools.NET.MonoCecil.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AssetsTools.NET.MonoCecil.dll": {}
+        }
+      },
+      "Microsoft.NET.ILLink.Tasks/8.0.31": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "Mono.Cecil/0.11.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
+        }
+      }
+    },
+    "net8.0/osx-x64": {
+      "AssetsTools.NET/3.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/AssetsTools.NET.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/AssetsTools.NET.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AssetsTools.NET.MonoCecil/3.0.4": {
+        "type": "package",
+        "dependencies": {
+          "AssetsTools.NET": "3.0.0",
+          "Mono.Cecil": "0.11.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/AssetsTools.NET.MonoCecil.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AssetsTools.NET.MonoCecil.dll": {}
+        }
+      },
+      "Microsoft.NET.ILLink.Tasks/8.0.31": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "Mono.Cecil/0.11.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssetsTools.NET/3.0.4": {
+      "sha512": "NqYy5UIucwKwdkpamFTi8lr53hD+V8qQmbHzztQj1v4Pq1G4TjNlpkUWOhktTLBqBm4aPRaAkpFgB+3TDEuomw==",
+      "type": "package",
+      "path": "assetstools.net/3.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "assetstools.net.3.0.4.nupkg.sha512",
+        "assetstools.net.nuspec",
+        "icon.png",
+        "lib/net35/AssetsTools.NET.dll",
+        "lib/net35/AssetsTools.NET.xml",
+        "lib/net40/AssetsTools.NET.dll",
+        "lib/net40/AssetsTools.NET.xml",
+        "lib/netstandard2.0/AssetsTools.NET.dll",
+        "lib/netstandard2.0/AssetsTools.NET.xml"
+      ]
+    },
+    "AssetsTools.NET.MonoCecil/3.0.4": {
+      "sha512": "cWchJC+FR5h9ULKYFYPZL5zVBXRzKLBMQTNspQGH9pq4lXtwFTWd1QtOkX5HsHirGrmm651h/TfwrBZ2ru9PvA==",
+      "type": "package",
+      "path": "assetstools.net.monocecil/3.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "assetstools.net.monocecil.3.0.4.nupkg.sha512",
+        "assetstools.net.monocecil.nuspec",
+        "icon.png",
+        "lib/net40/AssetsTools.NET.MonoCecil.dll",
+        "lib/netstandard2.0/AssetsTools.NET.MonoCecil.dll"
+      ]
+    },
+    "Microsoft.NET.ILLink.Tasks/8.0.31": {
+      "sha512": "OJdAGATV2QoVWL11zlDLEluA06q8rK+cgZR47ohrO8V+Qj5z9dlvN7bG9/0e5t0IOe+yD8tREC0bpsEgDGrzIQ==",
+      "type": "package",
+      "path": "microsoft.net.illink.tasks/8.0.31",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "Sdk/Sdk.props",
+        "THIRD-PARTY-NOTICES.TXT",
+        "analyzers/dotnet/cs/ILLink.CodeFixProvider.dll",
+        "analyzers/dotnet/cs/ILLink.RoslynAnalyzer.dll",
+        "build/Microsoft.NET.ILLink.Analyzers.props",
+        "build/Microsoft.NET.ILLink.Tasks.props",
+        "build/Microsoft.NET.ILLink.targets",
+        "microsoft.net.illink.tasks.8.0.31.nupkg.sha512",
+        "microsoft.net.illink.tasks.nuspec",
+        "tools/net472/ILLink.Tasks.dll",
+        "tools/net472/ILLink.Tasks.dll.config",
+        "tools/net472/Mono.Cecil.Mdb.dll",
+        "tools/net472/Mono.Cecil.Pdb.dll",
+        "tools/net472/Mono.Cecil.Rocks.dll",
+        "tools/net472/Mono.Cecil.dll",
+        "tools/net472/Sdk/Sdk.props",
+        "tools/net472/System.Buffers.dll",
+        "tools/net472/System.Collections.Immutable.dll",
+        "tools/net472/System.Memory.dll",
+        "tools/net472/System.Numerics.Vectors.dll",
+        "tools/net472/System.Reflection.Metadata.dll",
+        "tools/net472/System.Runtime.CompilerServices.Unsafe.dll",
+        "tools/net472/build/Microsoft.NET.ILLink.Analyzers.props",
+        "tools/net472/build/Microsoft.NET.ILLink.Tasks.props",
+        "tools/net472/build/Microsoft.NET.ILLink.targets",
+        "tools/net8.0/ILLink.Tasks.deps.json",
+        "tools/net8.0/ILLink.Tasks.dll",
+        "tools/net8.0/Mono.Cecil.Mdb.dll",
+        "tools/net8.0/Mono.Cecil.Pdb.dll",
+        "tools/net8.0/Mono.Cecil.Rocks.dll",
+        "tools/net8.0/Mono.Cecil.dll",
+        "tools/net8.0/Sdk/Sdk.props",
+        "tools/net8.0/build/Microsoft.NET.ILLink.Analyzers.props",
+        "tools/net8.0/build/Microsoft.NET.ILLink.Tasks.props",
+        "tools/net8.0/build/Microsoft.NET.ILLink.targets",
+        "tools/net8.0/illink.deps.json",
+        "tools/net8.0/illink.dll",
+        "tools/net8.0/illink.runtimeconfig.json",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Mono.Cecil/0.11.3": {
+      "sha512": "DNYE+io5XfEE8+E+5padThTPHJARJHbz1mhbhMPNrrWGKVKKqj/KEeLvbawAmbIcT73NuxLV7itHZaYCZcVWGg==",
+      "type": "package",
+      "path": "mono.cecil/0.11.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Mono.Cecil.Mdb.dll",
+        "lib/net40/Mono.Cecil.Mdb.pdb",
+        "lib/net40/Mono.Cecil.Pdb.dll",
+        "lib/net40/Mono.Cecil.Pdb.pdb",
+        "lib/net40/Mono.Cecil.Rocks.dll",
+        "lib/net40/Mono.Cecil.Rocks.pdb",
+        "lib/net40/Mono.Cecil.dll",
+        "lib/net40/Mono.Cecil.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Mdb.dll",
+        "lib/netstandard2.0/Mono.Cecil.Mdb.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Pdb.dll",
+        "lib/netstandard2.0/Mono.Cecil.Pdb.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Rocks.dll",
+        "lib/netstandard2.0/Mono.Cecil.Rocks.pdb",
+        "lib/netstandard2.0/Mono.Cecil.dll",
+        "lib/netstandard2.0/Mono.Cecil.pdb",
+        "mono.cecil.0.11.3.nupkg.sha512",
+        "mono.cecil.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AssetsTools.NET >= 3.0.4",
+      "AssetsTools.NET.MonoCecil >= 3.0.4",
+      "Microsoft.NET.ILLink.Tasks >= 8.0.31"
+    ]
+  },
+  "packageFolders": {
+    "/home/nilngn/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/nilngn/Downloads/humanitz/Fallout-Traducao-PT-BR-main/patcher/FSptBRPatcher.csproj",
+      "projectName": "Traduzir-FalloutShelter-PTBR",
+      "projectPath": "/home/nilngn/Downloads/humanitz/Fallout-Traducao-PT-BR-main/patcher/FSptBRPatcher.csproj",
+      "packagesPath": "/home/nilngn/.nuget/packages/",
+      "outputPath": "/home/nilngn/Downloads/humanitz/Fallout-Traducao-PT-BR-main/patcher/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/nilngn/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "AssetsTools.NET": {
+            "target": "Package",
+            "version": "[3.0.4, )"
+          },
+          "AssetsTools.NET.MonoCecil": {
+            "target": "Package",
+            "version": "[3.0.4, )"
+          },
+          "Microsoft.NET.ILLink.Tasks": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[8.0.31, )",
+            "autoReferenced": true
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
+            "version": "[8.0.31, 8.0.31]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[8.0.31, 8.0.31]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.osx-x64",
+            "version": "[8.0.31, 8.0.31]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/home/nilngn/.dotnet/sdk/8.0.425/PortableRuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "osx-x64": {
+        "#import": []
+      }
+    }
+  }
+}
