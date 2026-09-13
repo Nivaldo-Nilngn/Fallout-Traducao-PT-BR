@@ -35,10 +35,10 @@ Instalador de **1 clique** — sem precisar instalar nada.
 
 ## 📥 Como instalar
 
-1. Vá na aba **Releases** e baixe o ZIP correspondente ao seu sistema:
-   - 🪟 Windows: **[`Traducao_FS_Windows.zip`](../../releases/latest)**
-   - 🐧 Linux / Steam Deck: **[`Traducao_FS_Linux.zip`](../../releases/latest)**
-   - 🍎 Mac: **[`Traducao_FS_Mac.zip`](../../releases/latest)**
+1. Baixe o ZIP correspondente ao seu sistema clicando nos links abaixo:
+   - 🪟 Windows: **[`Traducao_FS_Windows.zip`](https://github.com/Nivaldo-Nilngn/Fallout-Traducao-PT-BR/raw/main/Releases_Finais/Traducao_FS_Windows.zip)**
+   - 🐧 Linux / Steam Deck: **[`Traducao_FS_Linux.zip`](https://github.com/Nivaldo-Nilngn/Fallout-Traducao-PT-BR/raw/main/Releases_Finais/Traducao_FS_Linux.zip)**
+   - 🍎 Mac: **[`Traducao_FS_Mac.zip`](https://github.com/Nivaldo-Nilngn/Fallout-Traducao-PT-BR/raw/main/Releases_Finais/Traducao_FS_Mac.zip)**
 2. Extraia o arquivo baixado.
 3. Dê **2 cliques** no executável `Traduzir-FalloutShelter-PTBR`.
    - Se o Windows mostrar um aviso azul (*"O Windows protegeu o seu PC"*): **Mais informações → Executar assim mesmo**.
@@ -128,8 +128,8 @@ risco — sempre dá pra reverter pela verificação de integridade da Steam.
 
 ## 🙏 Créditos
 
-- Tradução e ferramentas originais: **Lucas Oliveira**
-- Atualização da Tradução (Novas atualizações e DLCs) e Instaladores Multiplataforma: **Nivaldo-Nilngn**
+- Tradução e ferramentas originais: **Nivaldo G Neto**
+- Atualização da Tradução (Novas atualizações e DLCs) e Instaladores Multiplataforma: **Nivaldo G Neto**
 - Bibliotecas: AssetsTools.NET, Mono.Cecil, ILSpy
 
 ---
