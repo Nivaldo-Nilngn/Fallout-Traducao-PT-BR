@@ -26,7 +26,7 @@ Instalador de **1 clique** — sem precisar instalar nada.
 
 ## ✨ O que tem
 
-- ✅ **14.037 textos** traduzidos — o jogo **inteiro**: menus, salas, quests, itens, moradores e diálogos.
+- ✅ **14.854 textos** traduzidos — o jogo **inteiro**: menus, salas, quests, itens, moradores, série de TV e diálogos das atualizações mais recentes.
 - 🖱️ **Instalador de 1 clique** — não precisa de .NET, ferramentas, nem conhecimento técnico.
 - 🌐 **Funciona com qualquer idioma da Steam** — você **não precisa configurar nada**.
 - 💾 **Backup automático** — dá pra voltar ao original quando quiser.
@@ -128,7 +128,8 @@ risco — sempre dá pra reverter pela verificação de integridade da Steam.
 
 ## 🙏 Créditos
 
-- Tradução e ferramentas: **Lucas Oliveira**
+- Tradução e ferramentas originais: **Lucas Oliveira**
+- Atualização da Tradução (Novas atualizações e DLCs) e Instaladores Multiplataforma: **Nivaldo-Nilngn**
 - Bibliotecas: AssetsTools.NET, Mono.Cecil, ILSpy
 
 ---
