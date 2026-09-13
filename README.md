@@ -7,9 +7,12 @@
 **Tradução completa para Português do Brasil do Fallout Shelter (Steam/PC).**
 Instalador de **1 clique** — sem precisar instalar nada.
 
-![Plataforma](https://img.shields.io/badge/plataforma-Windows-0078D6?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20/%20Steam%20Deck-FCC624?logo=linux&logoColor=black)
+![Mac](https://img.shields.io/badge/Mac-000000?logo=apple&logoColor=white)
+<br>
 ![Idioma](https://img.shields.io/badge/idioma-Português%20(Brasil)-009c3b)
-![Textos](https://img.shields.io/badge/textos%20traduzidos-14.037-2ea44f)
+![Textos](https://img.shields.io/badge/textos%20traduzidos-14.854-2ea44f)
 ![Feito com](https://img.shields.io/badge/feito%20com-C%23-512BD4?logo=csharp&logoColor=white)
 
 </div>
