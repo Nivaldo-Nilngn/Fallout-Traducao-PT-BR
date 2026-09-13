@@ -137,8 +137,8 @@ Console.WriteLine("Reempacotando o jogo... (pode levar ~1 min)");
 srcInfo.SetNewData(srcBase);
 bun.file.BlockAndDirInfo.DirectoryInfos[srcDir].SetNewData(srcAfi.file);
 
-string tmpUncomp = Path.Combine(Path.GetTempPath(), "fsptbr_uncomp.tmp");
-string lz4Out = testOut ?? Path.Combine(Path.GetTempPath(), "fsptbr_patched.unity3d");
+string tmpUncomp = Path.Combine(Path.GetTempPath(), $"fsptbr_uncomp_{Guid.NewGuid():N}.tmp");
+string lz4Out = testOut ?? Path.Combine(Path.GetTempPath(), $"fsptbr_patched_{Guid.NewGuid():N}.unity3d");
 using (var fw = new AssetsFileWriter(tmpUncomp)) bun.file.Write(fw, 0);
 var packer = new AssetBundleFile();
 using (var rs = File.OpenRead(tmpUncomp))
