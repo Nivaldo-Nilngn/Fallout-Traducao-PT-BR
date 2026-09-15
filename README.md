@@ -36,6 +36,11 @@ Instalador de **1 clique** — sem precisar instalar nada.
 - 💾 **Backup automático** — dá pra voltar ao original quando quiser.
 - 🎯 Estilo de tradução: termos icônicos do Fallout ficam em inglês (Vault, Dweller, Caps, Stimpak, Wasteland…) e todo o resto em português.
 
+## 🚀 Novidades (Versão 2.0.0)
+- **Suporte definitivo para Android:** Jogue no celular usando nosso APK Automático (Instalador de 1 Clique) ou via instalação manual (OBB).
+- **Tradução 100% atualizada:** 14.854 linhas revisadas, englobando todas as novas quests, armas e diálogos da série de TV.
+- 👉 **[Clique aqui para ver as notas completas da atualização (Release v2.0.0)](https://github.com/Nivaldo-Nilngn/Fallout-Traducao-PT-BR/releases/tag/v2.0.0)**
+
 ## 📥 Como instalar
 
 1. Baixe o arquivo correspondente ao seu sistema clicando nos links abaixo:
