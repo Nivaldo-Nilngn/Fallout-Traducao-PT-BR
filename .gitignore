@@ -1,3 +1,4 @@
 # Ignore .NET build folders
 [Bb]in/
 [Oo]bj/
+Releases_Finais/
