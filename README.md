@@ -47,11 +47,31 @@ Instalador de **1 clique** — sem precisar instalar nada.
 
 2. Extraia o arquivo baixado (no caso das versões para PC e da versão Manual do Android).
 
-3. **Como executar:**
-   - **🪟 Windows:** Dê 2 cliques no aplicativo `Traduzir-FalloutShelter-PTBR.exe`. *(Se o Windows mostrar um aviso azul "O Windows protegeu o seu PC", clique em **Mais informações → Executar assim mesmo**).*
-   - **🐧 Linux / 🍎 Mac:** Abra a pasta extraída, clique com o botão direito num espaço vazio e escolha **"Abrir no Terminal"**. No terminal, digite `./Traduzir-FalloutShelter-PTBR` e aperte Enter. (Se der erro de permissão, digite `chmod +x Traduzir-FalloutShelter-PTBR` antes).
-   - **📱 Android (APK Automático - Recomendado):** Transfira o APK para o celular, instale-o (autorizando fontes desconhecidas se necessário) e abra o jogo. Na primeira vez, a tela ficará preta por alguns segundos enquanto extrai os dados nativos da tradução. Apenas aguarde o jogo iniciar!
-   - **📱 Android (Manual via ZIP):** Baixe o jogo na Play Store e abra pelo menos uma vez. Depois, extraia o nosso ZIP e mova o arquivo `main.232.com.bethsoft.falloutshelter.obb` para a pasta do celular: `Memória Interna/Android/obb/com.bethsoft.falloutshelter/` (substitua o arquivo que já estiver lá).
+3. **Como executar por Plataforma:**
+
+   ### 🪟 Windows
+   Dê 2 cliques no aplicativo `Traduzir-FalloutShelter-PTBR.exe`. 
+   > **Nota:** Se o Windows exibir um aviso azul *"O Windows protegeu o seu PC"*, clique em **Mais informações** e depois em **Executar assim mesmo**.
+
+   ### 🐧 Linux / 🍎 Mac
+   1. Abra a pasta extraída.
+   2. Clique com o botão direito num espaço vazio e escolha **"Abrir no Terminal"**.
+   3. No terminal, digite `./Traduzir-FalloutShelter-PTBR` e aperte Enter. 
+   *(Se der erro de permissão, digite `chmod +x Traduzir-FalloutShelter-PTBR` antes).*
+
+   ### 📱 Android (APK Automático - Recomendado)
+   1. Transfira o APK para o celular e instale-o (autorizando fontes desconhecidas se necessário).
+   2. Abra o jogo. Na primeira vez, a tela fica preta por alguns segundos enquanto o aplicativo extrai os dados nativos da tradução (quase 2GB).
+   3. Basta aguardar o jogo começar!
+
+   ### 📱 Android (Manual via ZIP)
+   Para acessar a pasta `Android/obb/` nos celulares mais recentes, você precisará do aplicativo **[ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=pt_BR)**.
+   1. Baixe o Fallout Shelter original na Play Store e abra pelo menos uma vez (para ele criar as pastas originais).
+   2. Feche o jogo.
+   3. Abra o **ZArchiver**, vá na pasta onde baixou o nosso `.zip` e extraia.
+   4. Segure o dedo sobre o arquivo extraído `main.232.com.bethsoft.falloutshelter.obb` e escolha **Copiar**.
+   5. Ainda no ZArchiver, navegue até: `Memória Interna / Android / obb / com.bethsoft.falloutshelter/`.
+   6. Cole o arquivo lá, **substituindo** o arquivo original que já estiver na pasta.
 
 4. **⚠️ Atenção (Linux/Mac):** Se o seu jogo não estiver instalado na pasta padrão da Steam, o instalador não vai achar o jogo sozinho. Ele vai pedir para você colar o caminho da pasta. Por isso, é importante rodar pelo terminal para você conseguir colar o caminho quando ele pedir.
 
